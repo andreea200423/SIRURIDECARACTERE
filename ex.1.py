@@ -1,0 +1,8 @@
+S=str(input('introduceti sirul'))
+print('1)' , S.count('A'))
+print('2)' , S.replace('A','*'))
+print('3)' , S.replace('B',' '))
+print('4)' , S.count('ma'))
+print('5)' , S.replace('ma','ta'))
+print('6)' , S.replace('to',' '))
+print('7)' , S[::-1])
